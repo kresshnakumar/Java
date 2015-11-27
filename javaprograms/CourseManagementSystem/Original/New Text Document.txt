@@ -1,0 +1,11 @@
+1) Creating object for CourseManagementSystem with titilename as paramenter.
+2) Creating an object for Course Class with two paramenters one is coursename and other is credits.
+3) In CMS Creating an Arraylist for Course class and adding the objects to it.
+4) Creating an object for Student Class with one paramenters one is studentname.
+5) IN CMS Creating an Arraylist for Student class and adding the objects to it.
+6) Creating an object for Enrollment Class with two paramenters one is Student object and other is course object.
+7) IN CMS Creating an Arraylist for Enrollment class and adding the objects to it.
+8) Awaarding grade points to the student in a particular course at Enrollment class instance variable.
+9) In CMS Computing Gpa by getitng the student name ,course and gradepoints 
+   from enrollemt class and storing Gpa at StudentClass.
+
